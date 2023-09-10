@@ -1,2 +1,2 @@
 # SkinDisorderPrediction
-Skin Disorder Prediction using relevant machine learning classifier models.
+The skin disorder prediction project focused on building a classification model to accurately identify various skin conditions using patient datas related to skin and medical conditions. By employing data preprocessing, feature engineering, and machine learning techniques, this project enhances early diagnosis and treatment in dermatology and healthcare. Finally I was able to create a model which has 99% accuracy.
